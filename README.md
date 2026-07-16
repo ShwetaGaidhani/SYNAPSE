@@ -61,14 +61,6 @@ Microservice Logs & Metrics
 - Pydantic
 - SQLAlchemy
 
-### Artificial Intelligence
-- PyTorch
-- PyTorch Geometric
-- Graph Neural Networks
-- Continual Learning
-- MAML
-- Causal Discovery
-- OpenAI API
 
 ### Retrieval
 - ChromaDB
